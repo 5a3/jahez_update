@@ -1,0 +1,6 @@
+{
+    "enable_update": false,
+    "update_url": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID",
+    "days_to_force": 3,
+    "message_ar": "تحديث جديد متوفر"
+  }
