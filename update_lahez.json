@@ -1,7 +1,7 @@
 {
   "enable_update":true,
   "update_url": "https://5a3.github.io/JahezWebSite/",
-  "days_to_force": 5,
+  "days_to_force": 1,
   "message_ar": "تحديث جديد متوفر قم بتحميلها",
   "title_ar": "🎉 تحديث مهم للتطبيق",
   "change_log": [
