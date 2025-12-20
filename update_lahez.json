@@ -1,6 +1,6 @@
 {
     "enable_update": true,
-    "update_url": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID",
-    "days_to_force": 3,
-    "message_ar": "تحديث جديد متوفر"
+    "update_url": "https://5a3.github.io/JahezWebSite/",
+    "days_to_force": 0,
+    "message_ar": "تحديث جديد متوفر قم بتحميلها"
   }
